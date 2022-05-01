@@ -1,7 +1,5 @@
 # limmy_blender_video
 
-https://yt5s.com/en87?q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRQzmTrlc4wA
-
 This a `python script` / `.blend` that creates a version of a Limmy video using an image and a song.
 Example: https://youtu.be/SiC2qVCB98s
 
