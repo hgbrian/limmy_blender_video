@@ -2,6 +2,7 @@
 
 This a `python script` / `.blend` that creates a version of a Limmy video using an image and a song.
 Example: https://youtu.be/SiC2qVCB98s
+![Example still](example_still.jpg?raw=true "Example still")
 
 To run, first overwrite `limmy_tshirt.jpeg` and `limmy_song.m4a`
 with a square-ish `jpeg` and an `m4a`
