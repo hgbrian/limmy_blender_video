@@ -1,11 +1,16 @@
 # limmy_blender_video
 
+https://yt5s.com/en87?q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRQzmTrlc4wA
+
 This a `python script` / `.blend` that creates a version of a Limmy video using an image and a song.
 Example: https://youtu.be/SiC2qVCB98s
 
 ![Example still](example_still.jpg?raw=true "Example still")
 
-To run, first overwrite `limmy_tshirt.jpeg` and `limmy_song.m4a`
+To run, first download [yt5s.com-Limmy's Show - Benny Harvey R.I.P. (4K Remaster)-(1080p).mp4`](https://yt5s.com/en87?q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRQzmTrlc4wA)
+(md5=b3b172b7eb77db9f4592c8d79c47c257)
+
+Then overwrite `limmy_tshirt.jpeg` and `limmy_song.m4a`
 with a square-ish `jpeg` and an `m4a`
 (`m4a` is the audio from an `mp4`;
 it sometimes has the extension `.mp4` but it's the same so you can just rename it `.m4a`).
