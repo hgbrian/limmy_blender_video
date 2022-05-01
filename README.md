@@ -1,10 +1,11 @@
 # limmy_blender_video
 
 To run first overwrite `limmy_tshirt.jpeg` and `limmy_song.m4a`
-with a square-ish jpeg and an `m4a` (the audio from an `mp4`;
-it sometimes has the extension `.mp4` but it's the same so you can just rename it `.m4a`).
+with a square-ish `jpeg` and an `m4a`
+(the audio from an `mp4`; it sometimes has the extension `.mp4` but it's the same so you can just rename it `.m4a`).
 
 Then run this (tested with Blender 3.0.0):
+
 ```blender --factory-startup -b limmy.blend -P limmy.py -x 1 -o //limmy_ -a -- -v 0.5 -a1 10 -a2 10```
 
 * `-x 1` = use extension
