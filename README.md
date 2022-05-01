@@ -7,7 +7,7 @@ Example: https://youtu.be/SiC2qVCB98s
 
 To run, first download the 1080p video from
 [yt5s.com-Limmy's Show - Benny Harvey R.I.P. (4K Remaster)-(1080p).mp4](https://yt5s.com/en87?q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRQzmTrlc4wA)
-to this folder (md5=`b3b172b7eb77db9f4592c8d79c47c257`).
+to this folder (md5=`b3b172b7eb77db9f4592c8d79c47c257`). Note the filename must match!
 
 Then overwrite `limmy_tshirt.jpeg` and `limmy_song.m4a`
 with a square-ish `jpeg` and an `m4a`
