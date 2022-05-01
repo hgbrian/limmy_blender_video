@@ -1,8 +1,12 @@
 # limmy_blender_video
 
-To run first overwrite `limmy_tshirt.jpeg` and `limmy_song.m4a`
+This a `python script` / `.blend` that creates a version of a Limmy video using an image and a song.
+Example: https://youtu.be/SiC2qVCB98s
+
+To run, first overwrite `limmy_tshirt.jpeg` and `limmy_song.m4a`
 with a square-ish `jpeg` and an `m4a`
-(the audio from an `mp4`; it sometimes has the extension `.mp4` but it's the same so you can just rename it `.m4a`).
+(`m4a` is the audio from an `mp4`;
+it sometimes has the extension `.mp4` but it's the same so you can just rename it `.m4a`).
 
 Then run this (tested with Blender 3.0.0):
 
@@ -17,7 +21,3 @@ Then run this (tested with Blender 3.0.0):
 * `-a2 10` = add 10 frames after fist pump, to time the video with the music
 
 See https://docs.blender.org/manual/en/latest/advanced/command_line/arguments.html for all Blender command line options.
-
-## Result
-A video of questionable utility:
-https://youtu.be/SiC2qVCB98s
